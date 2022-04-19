@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Spring Boot, Java, Kotlin**
 
-- 📫 How to reach me **caglartelef@gmail.com**
+- 📫 How to reach me **info@caglartelef.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/caglartelef/](https://www.linkedin.com/in/caglartelef/)
 
